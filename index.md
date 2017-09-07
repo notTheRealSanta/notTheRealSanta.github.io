@@ -1,5 +1,5 @@
 # -
-## [Neural Network Overview] (notTheRealSanta.github.io/nn_intro.md)
+## [Neural Network Overview] (http://notTheRealSanta.github.io/nn_intro.md)
 
 
 
