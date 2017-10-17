@@ -1,6 +1,5 @@
-@import "minima";
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
 
-body {
-    background-color: black;
-    color: red;
-}
+@import "minima";
