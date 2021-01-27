@@ -5,12 +5,15 @@ import re
 
 class MyRenderer(mistune.HTMLRenderer):
 
-    def list_item(self, text, level):
+    def list(self, text, ordered, level, start=None) :
         replace_list = (re.findall("\[\[.*?\]\]", text))
         for r in replace_list:
-            print(r)
+            # print(r)
             text = text.replace(r, '''<a href="{0}.html">{0}</a>'''.format(r[2:-2].replace(" ", "_") ))
-        return text
+        # print("text : ",text)
+        # print("ordered : ",ordered)
+        # print("level : ", level)
+        return "<ul>"+text+"</ul>"
 
 
 if __name__ == "__main__":
@@ -28,7 +31,7 @@ if __name__ == "__main__":
 
             env = Environment(loader=PackageLoader('script', 'templates'))
 
-            template_obj = env.get_template('template_test.html')
+            template_obj = env.get_template('page_template.html')
 
             data = {
                 'title' : file_name.replace("_", " "),
