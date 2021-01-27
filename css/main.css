@@ -27,9 +27,9 @@ h1 {
   --c-text: #444;
   --c-light: #777;
   --c-lighter: #aaa;
-  --c-highlight: gold;
+  --c-highlight: rgb(0, 0, 0);
   --c-link: #2470ff;
-  --c-link-hover: black;
+  --c-link-hover: rgb(122, 122, 122);
   --c-sep: rgba(0, 0, 0, 0.15);
   --c-sep-dark: rgba(0, 0, 0, 0.2);
   --c-underscore: var(--c-sep);
@@ -677,10 +677,10 @@ pre code {
 }
 
 .nav-title > a {
-  color: #9c5f00;
+  color: #ffffff;
   font-weight: bold;
   background: var(--c-highlight);
-  border-radius: var(--unit);
+  /* border-radius: var(--unit); */
   padding: 0 var(--unit);
 }
 

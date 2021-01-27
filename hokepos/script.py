@@ -6,10 +6,15 @@ import re
 class MyRenderer(mistune.HTMLRenderer):
 
     def list(self, text, ordered, level, start=None) :
+
+        # replaceing [[ and ]] to links
         replace_list = (re.findall("\[\[.*?\]\]", text))
         for r in replace_list:
-            # print(r)
-            text = text.replace(r, '''<a href="{0}.html">{0}</a>'''.format(r[2:-2].replace(" ", "_") ))
+            text = text.replace(r, '''<a href="{0}.html">{0}</a>'''.format(r[2:-2].replace(" ", "-") ))
+
+        replace_list = (re.findall("\^\^.*?\^\^", text))
+        for r in replace_list:
+            text = text.replace(r, '''<mark>{0}</mark>'''.format(r[2:-2]))
         # print("text : ",text)
         # print("ordered : ",ordered)
         # print("level : ", level)
@@ -24,7 +29,7 @@ if __name__ == "__main__":
     print(files_list)
 
     for f in files_list:
-        file_name = f[:-3].replace(" ", "_")
+        file_name = f[:-3].replace(" ", "-")
         print('file name:', file_name)
         with open('roam_exports/{}'.format(f),'r') as test_file:
             parsed_md = (markdown(test_file.read()))
@@ -34,7 +39,7 @@ if __name__ == "__main__":
             template_obj = env.get_template('page_template.html')
 
             data = {
-                'title' : file_name.replace("_", " "),
+                'title' : f[:-3],
                 'content': parsed_md,
             }
 
