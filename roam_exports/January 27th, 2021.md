@@ -1,2 +1,0 @@
-- Testing Highlights
-    - ^^This is in highlight^^

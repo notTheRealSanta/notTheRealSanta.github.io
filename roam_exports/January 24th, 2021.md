@@ -1,6 +1,0 @@
-- Testing nested blocks
-    - nesting level 1 
-        - nesting level 2 
-            - level 3
-                - "Testing Highlights"
-                    - "^^This is in highlight^^"
