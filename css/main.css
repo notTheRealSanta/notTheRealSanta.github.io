@@ -3,7 +3,7 @@ h1 {
 }
 
 :root {
-  --unit: .25rem;
+  --unit: .2rem;
   --unit2: calc(var(--unit) * 2);
   --unit3: calc(var(--unit) * 3);
   --unit4: calc(var(--unit) * 4);
