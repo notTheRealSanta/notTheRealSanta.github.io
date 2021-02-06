@@ -1,2 +1,0 @@
-- Imagine what is like to live a life in the past. Only a few hundred years ago, the chances of you crossing the age of 15 was about 50% ( compared to about 5% now ). Our species has spent most time without electricity or running water. We collected firewood to cook food and constantly worried about our next meal. Our __geist__ was a zero sum universe. We were at war and did not see another way.
-- #Sonder

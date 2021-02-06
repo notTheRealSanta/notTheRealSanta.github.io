@@ -1,3 +1,0 @@
-- # 2021
-    - We are living in an age where Obesity kills more people than Hunger
-    - Where knowledge is free and abundant but education is rigid. 

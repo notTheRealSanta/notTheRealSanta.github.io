@@ -4,6 +4,7 @@ import os
 import re
 
 month_string_list = ['January', 'February', 'March']
+mk_files_location = 'roam_exports/markdown/'
 
 class MyRenderer(mistune.HTMLRenderer):
 
@@ -19,9 +20,9 @@ class MyRenderer(mistune.HTMLRenderer):
         for r in replace_list:
             text = text.replace(r, '''<mark>{0}</mark>'''.format(r[2:-2]))
             
-        print("text : ",text)
-        print("ordered : ",ordered)
-        print("level : ", level)
+        # print("text : ",text)
+        # print("ordered : ",ordered)
+        # print("level : ", level)
         return "<ul>"+text+"</ul>"
 
 
@@ -29,12 +30,12 @@ if __name__ == "__main__":
 
     markdown = mistune.create_markdown(renderer=MyRenderer())
 
-    files_list = [f for f in os.listdir('roam_exports/') if f.endswith('.md') and not f.startswith(tuple(month_string_list))]
+    files_list = [f for f in os.listdir(mk_files_location) if f.endswith('.md') and not f.startswith(tuple(month_string_list))]
     print(files_list)
     for f in files_list:
         file_name = f[:-3].replace(" ", "-")
         print('file name:', file_name)
-        with open('roam_exports/{}'.format(f),'r') as test_file:
+        with open(mk_files_location+'{}'.format(f),'r') as test_file:
             parsed_md = (markdown(test_file.read()))
 
             env = Environment(loader=PackageLoader('script', 'templates'))
