@@ -1,0 +1,5 @@
+- You are the protagonist of your story. You see your life unfold in front of your eyes. You see other people in this story, some close enough to call as friends and family, some acquaintances and some in the background: a random passerby. Each of them living a life as interesting and complex as yours. Each one of them holds thoughts that are not dissimilar to that of your own.  
+- Not only do the people living is the present who lives are as conscious as your life, all the people that lived before also lived a life with thoughts, ambitions, worries, mistakes and friends. Chrono-sonder.
+- Most people are stranger to you. Most stories you will never know. Cherish the once you do know: people and their stories.
+- Chrono-Sonder
+    - Imagine what is like to live a life in the past. Only a few hundred years ago, the chances of you crossing the age of 15 was about 50% ( compared to about 5% now ). Our species has spent most time without electricity or running water. We collected firewood to cook food and constantly worried about our next meal. Our __geist__ was a zero sum universe. We were at war and did not see another way.
