@@ -67,6 +67,7 @@ b,
 strong,
 .b {
   font-weight: var(--bold);
+  font-size: 25px;
 }
 
 pre {

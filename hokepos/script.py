@@ -8,6 +8,7 @@ mk_files_location = 'roam_exports/markdown/'
 
 class MyRenderer(mistune.HTMLRenderer):
 
+
     def list(self, text, ordered, level, start=None) :
 
         # replacing [[ and ]] to links
@@ -19,7 +20,7 @@ class MyRenderer(mistune.HTMLRenderer):
         replace_list = (re.findall("\^\^.*?\^\^", text))
         for r in replace_list:
             text = text.replace(r, '''<mark>{0}</mark>'''.format(r[2:-2]))
-            
+
         # print("text : ",text)
         # print("ordered : ",ordered)
         # print("level : ", level)
