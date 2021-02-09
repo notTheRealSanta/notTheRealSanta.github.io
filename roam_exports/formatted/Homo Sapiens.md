@@ -14,3 +14,6 @@
 ## [February 3rd, 2021](<February 3rd, 2021.md>)
 - [Homo Sapiens](<Homo Sapiens.md>)
 
+## [Understanding Money](<Understanding Money.md>)
+- Early [Homo Sapiens](<Homo Sapiens.md>)
+

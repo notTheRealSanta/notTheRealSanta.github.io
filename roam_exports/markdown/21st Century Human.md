@@ -1,5 +1,5 @@
 - The 21st century world is alien to the human species. By 'alien' I mean it is not a natural habitat for humans. Although biologically 21st century humans are similar to the [[Homo Sapiens]] of the past, culturally we are very much different. 
-- # Light Side
+- ### Light Side
     - Food🍕is not scarce. In fact, It is abundant to most of us. We do not worry about our next meal. This is new to homo sapiens.
     - Electricity⚡️ to power our Homes and Industry. We discovered fossil fuels and inventing efficient ways to covert them to do [work](https://en.wikipedia.org/wiki/Work_%28physics%29).
         - Access to electricity is at 90% of the population.
@@ -9,7 +9,7 @@
     - Access to Knowledge 🌍 is not limited.
         - ![Internet access around the world](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fho_kepos%2F38ntir_tny.png?alt=media&token=ab1aaea8-a3d1-4910-a548-3751b1db2815) ( [image-source](https://ourworldindata.org/internet) )
     - Large scale economic policies 💹 lifting many from poverty.
-- # Dark Side
+- ### Dark Side
     - 🍕 World deals with undernourishment and obesity at the same time 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fho_kepos%2FsBTMscRBX3.png?alt=media&token=f520ea90-39ea-4ecc-8b3a-263c7fb50b3d)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fho_kepos%2Fa6Ra3LMdKq.png?alt=media&token=61836732-45c2-4a67-883d-79534d181857) 
