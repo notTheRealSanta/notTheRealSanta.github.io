@@ -3,7 +3,7 @@ h1 {
 }
 
 :root {
-  --unit: .2rem;
+  --unit: .25rem;
   --unit2: calc(var(--unit) * 2);
   --unit3: calc(var(--unit) * 3);
   --unit4: calc(var(--unit) * 4);
@@ -20,7 +20,7 @@ h1 {
   --unit-body3: 0.75rem;
   --unit-line: calc(var(--unit) * 6);
   --unit-line-tall: calc(var(--unit) * 8);
-  --bold: 500;
+  --bold: 1000;
   --font-family: "IBM Plex Sans", sans-serif;
   --bg-light: #fff;
   --bg-wash: #f7f7f7; /*hsl(0, 100%, 97%) */
@@ -601,8 +601,10 @@ pre code {
   background-color: var(--c-highlight);
 }
 
-.wikilink {
-  font-weight: var(--bold);
+a.insidelink {
+  background: -webkit-linear-gradient(rgb(24, 185, 248), rgb(27, 117, 253));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .layout-main {

@@ -1,4 +1,6 @@
 - The 21st century world is alien to the human species. By 'alien' I mean it is not a natural habitat for humans. Although biologically 21st century humans are similar to the [[Homo Sapiens]] of the past, culturally we are very much different. 
+- Progress
+    - ![](https://ourworldindata.org/uploads/2017/01/Two-centuries-World-as-100-people.png)
 - ### Light Side
     - Food🍕is not scarce. In fact, It is abundant to most of us. We do not worry about our next meal. This is new to homo sapiens.
     - Electricity⚡️ to power our Homes and Industry. We discovered fossil fuels and inventing efficient ways to covert them to do [work](https://en.wikipedia.org/wiki/Work_%28physics%29).

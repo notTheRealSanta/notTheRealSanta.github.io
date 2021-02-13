@@ -1,6 +1,6 @@
 - __homo__ meaning **man**; __sapiens__ meaning **the one who knows**. 
 - Homo Sapiens (of the [genus](https://en.wikipedia.org/wiki/Genus) : [Homo](https://en.wikipedia.org/wiki/Homo)) - wise man.
-- funny, we named ourselves - wise man. Sapiens, the last remaining species of the genus Homo. Originated from Africa, now spread across the world ([>](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/2880px-Spreading_homo_sapiens_la.svg.png)). 
+- funny, we named ourselves - wise man. Sapiens, the last remaining species of the genus Homo. Originated from Africa, now spread across the world ([🔗](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/2880px-Spreading_homo_sapiens_la.svg.png)). 
 - Humans sometime forget about their distant past.
     - We are a leaf in the Tree of Life. [gif-source](http://www.onezoom.org/life.html/) [alternate picture](https://i.redd.it/gajebt5fp7f61.jpg)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fho_kepos%2FJlHB8lCGut.gif?alt=media&token=9a8fe3dc-8287-455f-be6b-9c11edff4c94)

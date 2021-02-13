@@ -251,8 +251,8 @@
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
         "create-time": 1612374512266,
-        "edit-time": 1612460538517,
-        "string": "funny, we named ourselves - wise man. Sapiens, the last remaining species of the genus Homo. Originated from Africa, now spread across the world ([>](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/2880px-Spreading_homo_sapiens_la.svg.png)). ",
+        "edit-time": 1613202772641,
+        "string": "funny, we named ourselves - wise man. Sapiens, the last remaining species of the genus Homo. Originated from Africa, now spread across the world ([\ud83d\udd17](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/2880px-Spreading_homo_sapiens_la.svg.png)). ",
         "uid": "_RKhJGsn3"
       },
       {
@@ -388,6 +388,32 @@
         ],
         "string": "The 21st century world is alien to the human species. By 'alien' I mean it is not a natural habitat for humans. Although biologically 21st century humans are similar to the [[Homo Sapiens]] of the past, culturally we are very much different. ",
         "uid": "qU9gB6JYF"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+            },
+            ":edit/user": {
+              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+            },
+            "create-time": 1612947910608,
+            "edit-time": 1612948005720,
+            "string": "![](https://ourworldindata.org/uploads/2017/01/Two-centuries-World-as-100-people.png)",
+            "uid": "aoW38f0BE"
+          }
+        ],
+        "create-time": 1612947895882,
+        "edit-time": 1612947898979,
+        "string": "Progress",
+        "uid": "X9_Lk2E9v"
       },
       {
         ":create/user": {
@@ -782,10 +808,10 @@
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
-        "create-time": 1612870272905,
-        "edit-time": 1612870272905,
-        "string": "All of us-currently living are born to a world already entangled with money. So to understand money one needs to understand the history of money. Before the invention of money, barter system was **not** the main mode of exchange ([\ud83d\udd17](https://en.wikipedia.org/wiki/History_of_money#Non-monetary_exchange)). ",
-        "uid": "_NgUqQM58"
+        "create-time": 1613106710970,
+        "edit-time": 1613106722370,
+        "string": "All of us-currently living are born to a world already entangled with money. So to understand money one needs to understand the history of money. ",
+        "uid": "pO-3iLs1u"
       },
       {
         ":create/user": {
@@ -794,10 +820,10 @@
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
-        "create-time": 1612860877179,
-        "edit-time": 1612870272916,
-        "string": "Barter existed only to trade with members of another tribe or someone who is occasionally met with. Most transactions used a form of mental ledger where one would keep track of the 'IOU'-[I owe you](https://en.wikipedia.org/wiki/IOU). A sort of a debt.",
-        "uid": "lgDEonbvi"
+        "create-time": 1612944813755,
+        "edit-time": 1612944813755,
+        "string": "Before the invention of money, barter system was **not** the main mode of exchange ([\ud83d\udd17](https://en.wikipedia.org/wiki/History_of_money#Non-monetary_exchange)). Barter existed only to trade with members of another tribe or someone who is occasionally met with. ",
+        "uid": "ExCEBunxX"
       },
       {
         ":block/refs": [
@@ -811,15 +837,15 @@
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
-        "create-time": 1612690670245,
-        "edit-time": 1612860877191,
+        "create-time": 1612870272905,
+        "edit-time": 1612945046935,
         "refs": [
           {
             "uid": "vcSB5s3tp"
           }
         ],
-        "string": "Early [[Homo Sapiens]] remembered the payments and receipt of the things exchanged and kept tallies of them, mostly in memory. As tribes began to grow as a result of efficient process in the early agrarian societies, a need for a universal ledger began to grow.",
-        "uid": "Wd_qMhATX"
+        "string": "Most transactions used a form of mental ledger where one would keep track of the 'IOU'-[I owe you](https://en.wikipedia.org/wiki/IOU). [[Homo Sapiens]] remembered the payments and receipt of the things exchanged and kept tallies of them, mostly in memory. Everyone was happy with this sort of exchanges and it was fairly easy to keep the ledger in memory. But as tribes began to grow as a result of efficient process in the early agrarian societies, a need for a universal and transactional ledger began to grow.",
+        "uid": "_NgUqQM58"
       },
       {
         ":create/user": {
@@ -849,8 +875,8 @@
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
             "create-time": 1612791977598,
-            "edit-time": 1612791979459,
-            "string": "When the IOU can be saved for a future purchase, debt is created. So money and debt were created at the same time.",
+            "edit-time": 1612945068371,
+            "string": "When this IOU can be stored/saved for a future purchase, debt is created. So money and debt were created at the same time.",
             "uid": "dnfyqdzzq"
           },
           {
@@ -891,6 +917,18 @@
             "edit-time": 1612869736599,
             "string": "Increase in use of money resulted in increase in trade which resulted in people specializing in areas of interest to the society. Only when the blacksmiths can rely on the farmers for trade for food can they focus on creating better tools.",
             "uid": "YhKBDbl-D"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+            },
+            ":edit/user": {
+              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+            },
+            "create-time": 1612945121025,
+            "edit-time": 1612945146614,
+            "string": "This is important because most things that we see around us were made by people not worrying about their next meal.",
+            "uid": "jQqL_so1I"
           }
         ],
         "create-time": 1612848004226,
@@ -966,8 +1004,8 @@
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
             "create-time": 1612862397113,
-            "edit-time": 1612868082019,
-            "string": "In 1971, the convertibility of US dollar to gold was [abolished](https://en.wikipedia.org/wiki/Nixon_shock) giving rise to the [Free Floating Currencies](https://en.wikipedia.org/wiki/Floating_exchange_rate).",
+            "edit-time": 1612949432995,
+            "string": "In 1971, the convertibility of US dollar to gold was [abolished](https://en.wikipedia.org/wiki/Nixon_shock) giving rise to the [fiat money](https://www.investopedia.com/terms/f/fiatmoney.asp)",
             "uid": "dqgLdECkV"
           },
           {
@@ -978,8 +1016,8 @@
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
             "create-time": 1612868082011,
-            "edit-time": 1612868110607,
-            "string": "The only thing that keep the value of dollar and therefore of all currencies is mutual trust.",
+            "edit-time": 1612958999174,
+            "string": "The only thing that keep the value of dollar and therefore of most currencies is mutual trust.",
             "uid": "Vlmy1wdYs"
           }
         ],
@@ -1055,8 +1093,8 @@
               }
             ],
             "create-time": 1612862709500,
-            "edit-time": 1612863070645,
-            "string": "Making money (which is the focus of people in a capitalist society) is like eating pancakes, the more you eat lesser the satisfaction you gain from it.",
+            "edit-time": 1612945347851,
+            "string": "Making money (which is the focus of most people in a capitalist society) is like eating pancakes, the more you eat lesser the satisfaction you gain from it.",
             "uid": "AzizhnaJi"
           }
         ],
@@ -1255,6 +1293,11 @@
         },
         "children": [
           {
+            ":block/refs": [
+              {
+                ":block/uid": "NGrm-ybiX"
+              }
+            ],
             ":create/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
@@ -1262,8 +1305,13 @@
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
             "create-time": 1612870262367,
-            "edit-time": 1612870262367,
-            "string": "It is important to understand that the world changes because of people and not money. It also important to recognize that money enables a medium of trust. ",
+            "edit-time": 1612945421536,
+            "refs": [
+              {
+                "uid": "NGrm-ybiX"
+              }
+            ],
+            "string": "It is important to understand that the world changes because of people and not money. It also important to recognize that money enables this medium of trust that incentives people to innovate and innovation leads to better life. #[[21st Century Human]]",
             "uid": "tC10BlgjE"
           },
           {
@@ -1340,5 +1388,403 @@
     "edit-time": 1612847685646,
     "title": "February 9th, 2021",
     "uid": "02-09-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    ":edit/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    "create-time": 1612944698887,
+    "edit-time": 1612944698887,
+    "title": "February 10th, 2021",
+    "uid": "02-10-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    ":edit/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    "create-time": 1613106535746,
+    "edit-time": 1613106535746,
+    "title": "February 12th, 2021",
+    "uid": "02-12-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    ":edit/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "create-time": 1613106575316,
+        "edit-time": 1613203173968,
+        "string": "",
+        "uid": "wTWksU_-5"
+      }
+    ],
+    "create-time": 1613106573828,
+    "edit-time": 1613106573829,
+    "title": "roam/templates",
+    "uid": "PqP4CUpDu"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    ":edit/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "create-time": 1613123749025,
+        "edit-time": 1613123758617,
+        "string": "This page is to test out the website",
+        "uid": "9a2x5iaSY"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+            },
+            ":edit/user": {
+              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                ":edit/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                "create-time": 1613123831291,
+                "edit-time": 1613123835850,
+                "string": "level 3 block : Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "uid": "C6UuV3r4J"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                ":edit/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                    },
+                    "create-time": 1613123885876,
+                    "edit-time": 1613210807115,
+                    "string": "![](https://picsum.photos/600)",
+                    "uid": "uaVPD-j4N"
+                  }
+                ],
+                "create-time": 1613123839084,
+                "edit-time": 1613123884627,
+                "string": "level 3 block  - with image",
+                "uid": "0EjHtOWIw"
+              }
+            ],
+            "create-time": 1613123763270,
+            "edit-time": 1613123826523,
+            "string": "level 2 block Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+            "uid": "kes76uOwX"
+          }
+        ],
+        "create-time": 1613123758608,
+        "edit-time": 1613123761989,
+        "string": "level 1 block",
+        "uid": "mePhr6AvY"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "create-time": 1613123928636,
+        "edit-time": 1613123939521,
+        "string": "> Testing Quote blocks",
+        "uid": "J-1dqY-s5"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "create-time": 1613123939514,
+        "edit-time": 1613123965637,
+        "string": "Testing **bold** font",
+        "uid": "okp1W71oq"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "create-time": 1613123952214,
+        "edit-time": 1613123964536,
+        "string": "Testing __italics__ font",
+        "uid": "Keorpb6qH"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "vcSB5s3tp"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "create-time": 1613124338370,
+        "edit-time": 1613135501296,
+        "refs": [
+          {
+            "uid": "vcSB5s3tp"
+          }
+        ],
+        "string": "Testing link to another page [[Homo Sapiens]]",
+        "uid": "9qdbksdRg"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "create-time": 1613124353406,
+        "edit-time": 1613135494909,
+        "string": "Testing link to webpage [link](https://github.com/Knio/dominate)",
+        "uid": "IhMh2WHz1"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "FMY0HSkus"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+            },
+            ":edit/user": {
+              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "su6eggeHj"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                ":edit/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                "create-time": 1613135523089,
+                "edit-time": 1613135523089,
+                "refs": [
+                  {
+                    "uid": "su6eggeHj"
+                  }
+                ],
+                "string": "((su6eggeHj))",
+                "uid": "MwPhYl9HV"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "AzizhnaJi"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                ":edit/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "haFqaYw7K"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                    },
+                    "create-time": 1613135523089,
+                    "edit-time": 1613135523089,
+                    "refs": [
+                      {
+                        "uid": "haFqaYw7K"
+                      }
+                    ],
+                    "string": "((haFqaYw7K))",
+                    "uid": "oHOB_J1gk"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "ta9gy_rvs"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                    },
+                    "create-time": 1613135523089,
+                    "edit-time": 1613135523089,
+                    "refs": [
+                      {
+                        "uid": "ta9gy_rvs"
+                      }
+                    ],
+                    "string": "((ta9gy_rvs))",
+                    "uid": "3Dnvv-sPb"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h3s2Xq1bV"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                    },
+                    "create-time": 1613135523089,
+                    "edit-time": 1613135523089,
+                    "refs": [
+                      {
+                        "uid": "h3s2Xq1bV"
+                      }
+                    ],
+                    "string": "((h3s2Xq1bV))",
+                    "uid": "j9XPNsdEC"
+                  }
+                ],
+                "create-time": 1613135523089,
+                "edit-time": 1613135523089,
+                "refs": [
+                  {
+                    "uid": "AzizhnaJi"
+                  }
+                ],
+                "string": "((AzizhnaJi))",
+                "uid": "fV-hMlhvx"
+              }
+            ],
+            "create-time": 1613135507581,
+            "edit-time": 1613135517939,
+            "refs": [
+              {
+                "uid": "FMY0HSkus"
+              }
+            ],
+            "string": "((FMY0HSkus))",
+            "uid": "0pyHKctbi"
+          }
+        ],
+        "create-time": 1613135503539,
+        "edit-time": 1613135507588,
+        "string": "Testing block ref",
+        "uid": "KBmF31bdB"
+      }
+    ],
+    "create-time": 1613123747883,
+    "edit-time": 1613123747883,
+    "title": "Ho Kepos",
+    "uid": "KAfyoH3X5"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    ":edit/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "KAfyoH3X5"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "create-time": 1613204866667,
+        "edit-time": 1613204869791,
+        "refs": [
+          {
+            "uid": "KAfyoH3X5"
+          }
+        ],
+        "string": "[[Ho Kepos]]",
+        "uid": "pgddtqwn7"
+      }
+    ],
+    "create-time": 1613201555792,
+    "edit-time": 1613201555792,
+    "title": "February 13th, 2021",
+    "uid": "02-13-2021"
   }
 ]
