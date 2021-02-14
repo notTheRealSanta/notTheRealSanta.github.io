@@ -542,7 +542,7 @@
         ],
         "create-time": 1612612022383,
         "edit-time": 1612620528569,
-        "heading": 3,
+        "heading": 2,
         "string": "Light Side",
         "uid": "lRPWZxT1W"
       },
@@ -734,8 +734,8 @@
                   ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
                 },
                 "create-time": 1612615422049,
-                "edit-time": 1612615455502,
-                "string": "**It's important to note that Man creates Poverty**",
+                "edit-time": 1613222483382,
+                "string": "**It's important to understand that Man creates Poverty**",
                 "uid": "WEhMqp-Hq"
               }
             ],
@@ -747,7 +747,7 @@
         ],
         "create-time": 1612612022383,
         "edit-time": 1612612022383,
-        "heading": 3,
+        "heading": 2,
         "string": "Dark Side",
         "uid": "VIr8473A-"
       }
@@ -802,28 +802,20 @@
     },
     "children": [
       {
-        ":create/user": {
-          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-        },
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
-        "create-time": 1613106710970,
-        "edit-time": 1613106722370,
-        "string": "All of us-currently living are born to a world already entangled with money. So to understand money one needs to understand the history of money. ",
-        "uid": "pO-3iLs1u"
+        "edit-time": 1613286323931,
+        "string": "All of us currently living are born to a world already entangled with money. So to understand money one needs to understand the history of money.",
+        "uid": "lVR56vYPS"
       },
       {
-        ":create/user": {
-          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-        },
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
-        "create-time": 1612944813755,
-        "edit-time": 1612944813755,
-        "string": "Before the invention of money, barter system was **not** the main mode of exchange ([\ud83d\udd17](https://en.wikipedia.org/wiki/History_of_money#Non-monetary_exchange)). Barter existed only to trade with members of another tribe or someone who is occasionally met with. ",
-        "uid": "ExCEBunxX"
+        "edit-time": 1613286323931,
+        "string": "Before the invention of money, the barter system was\u00a0**not**\u00a0the main mode of exchange ([\ud83d\udd17](https://en.wikipedia.org/wiki/History_of_money#Non-monetary_exchange)). Barter existed only to trade with members of another tribe or someone who is occasionally met with.",
+        "uid": "Nl8OZmlaU"
       },
       {
         ":block/refs": [
@@ -831,201 +823,141 @@
             ":block/uid": "vcSB5s3tp"
           }
         ],
-        ":create/user": {
-          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-        },
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
-        "create-time": 1612870272905,
-        "edit-time": 1612945046935,
+        "edit-time": 1613286323931,
         "refs": [
           {
             "uid": "vcSB5s3tp"
           }
         ],
-        "string": "Most transactions used a form of mental ledger where one would keep track of the 'IOU'-[I owe you](https://en.wikipedia.org/wiki/IOU). [[Homo Sapiens]] remembered the payments and receipt of the things exchanged and kept tallies of them, mostly in memory. Everyone was happy with this sort of exchanges and it was fairly easy to keep the ledger in memory. But as tribes began to grow as a result of efficient process in the early agrarian societies, a need for a universal and transactional ledger began to grow.",
-        "uid": "_NgUqQM58"
+        "string": "Most transactions used a form of the mental ledger where one would keep track of the 'IOU'-[I owe you](https://en.wikipedia.org/wiki/IOU). [[Homo Sapiens]] remembered the payments and receipt of the things exchanged and kept tallies of them, mostly in memory. Everyone was happy with this sort of exchange and it was fairly easy to keep the ledger in memory. But as tribes began to grow as a result of efficient processes in the early agrarian societies, a need for a universal and transactional ledger began to grow.",
+        "uid": "zFRGIXIke"
       },
       {
-        ":create/user": {
-          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-        },
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
         "children": [
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612791977201,
-            "edit-time": 1612791977201,
-            "string": "The physical manifestation of IOU began as stone, shell, salt, tooth and so on. Creating a common medium of exchange meant anyone could trade with anyone else. ",
-            "uid": "eGmtmbrKW"
+            "edit-time": 1613286350765,
+            "string": "The physical manifestation of IOU began as stone, shell, salt, tooth, and so on. Creating a common medium of exchange meant anyone could trade with anyone else.",
+            "uid": "L-AQ2AvM3"
           },
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612791977598,
-            "edit-time": 1612945068371,
-            "string": "When this IOU can be stored/saved for a future purchase, debt is created. So money and debt were created at the same time.",
-            "uid": "dnfyqdzzq"
+            "edit-time": 1613286350765,
+            "string": "When this IOU can be stored or saved for a future purchase, debt is created. So money and debt were created at the same time.",
+            "uid": "A5AZ1pt1o"
           },
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612790927259,
-            "edit-time": 1612869712368,
+            "edit-time": 1613286350765,
             "string": "As trading globalized, gold emerged as the universal ledger.",
-            "uid": "fKtR0U_Lu"
+            "uid": "hG9g-8M5o"
           }
         ],
-        "create-time": 1612685163066,
-        "edit-time": 1612862121566,
+        "edit-time": 1613286350765,
         "heading": 2,
         "string": "IOU \ud83e\uddfe",
-        "uid": "AKbZJGPN8"
+        "uid": "kK5fUMMtR"
       },
       {
-        ":create/user": {
-          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-        },
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
         "children": [
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612848009605,
-            "edit-time": 1612869736599,
-            "string": "Increase in use of money resulted in increase in trade which resulted in people specializing in areas of interest to the society. Only when the blacksmiths can rely on the farmers for trade for food can they focus on creating better tools.",
-            "uid": "YhKBDbl-D"
+            "edit-time": 1613286363887,
+            "string": "\u00a0Increase in the use of money increased trade which resulted in people specializing in areas of interest to the society. Only when the blacksmiths can rely on the farmers for trading food, can they focus on creating better tools.",
+            "uid": "L2X0l7_kg"
           },
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612945121025,
-            "edit-time": 1612945146614,
+            "edit-time": 1613286363887,
             "string": "This is important because most things that we see around us were made by people not worrying about their next meal.",
-            "uid": "jQqL_so1I"
+            "uid": "egNP30y7B"
           }
         ],
-        "create-time": 1612848004226,
-        "edit-time": 1612862130604,
+        "edit-time": 1613286363887,
         "heading": 2,
         "string": "Specialization \u2692\ufe0f",
-        "uid": "F_qJR_UPP"
+        "uid": "vTEUmkkjN"
       },
       {
-        ":create/user": {
-          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-        },
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
         "children": [
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612847930258,
-            "edit-time": 1612869807596,
-            "string": "Historically, consolidation of power meant sovereigns set the value of currency leading to an unbalanced utility of money. Those with power exploited those without money. ",
-            "uid": "yy7n5lsNL"
+            "edit-time": 1613286379072,
+            "string": "Historically, consolidation of power meant sovereigns set the value of currency leading to an unbalanced utility of money. Those with power exploited those without money.",
+            "uid": "pabU8EqN8"
           },
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612847731761,
-            "edit-time": 1612869822857,
+            "edit-time": 1613286379072,
             "string": "If centralized money was not invented ( i.e printing paper money or minting coins ) then there might not be money to wage wars.",
-            "uid": "IIVYri-UZ"
+            "uid": "Tgp5pWh1M"
           }
         ],
-        "create-time": 1612847728695,
-        "edit-time": 1612862150929,
+        "edit-time": 1613286379072,
         "heading": 2,
         "string": "Corruption \ud83e\udd9e",
-        "uid": "i0emQqqru"
+        "uid": "GN0Amdhft"
       },
       {
-        ":create/user": {
-          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-        },
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
         "children": [
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612861456914,
-            "edit-time": 1612862400631,
-            "string": "For 5000 years gold fascinated humankind. It was because the scarcity of gold was universal that gave gold the property of storage of wealth. ",
-            "uid": "b7A0K9QkO"
+            "edit-time": 1613286389484,
+            "string": "For 5000 years gold fascinated humankind. It was because the scarcity of gold was universal that gave gold the property of storage of wealth.",
+            "uid": "aGgb3wpuc"
           },
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612862397113,
-            "edit-time": 1612949432995,
-            "string": "In 1971, the convertibility of US dollar to gold was [abolished](https://en.wikipedia.org/wiki/Nixon_shock) giving rise to the [fiat money](https://www.investopedia.com/terms/f/fiatmoney.asp)",
-            "uid": "dqgLdECkV"
+            "edit-time": 1613286389484,
+            "string": "In 1971, the convertibility of the US dollar to gold was\u00a0[abolished](https://en.wikipedia.org/wiki/Nixon_shock)\u00a0giving rise to the\u00a0[fiat money](https://www.investopedia.com/terms/f/fiatmoney.asp)",
+            "uid": "zIFg4yxfZ"
           },
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612868082011,
-            "edit-time": 1612958999174,
-            "string": "The only thing that keep the value of dollar and therefore of most currencies is mutual trust.",
-            "uid": "Vlmy1wdYs"
+            "edit-time": 1613286389484,
+            "string": "The only thing that keeps the value of the dollar and therefore of most currencies is\u00a0**mutual trust**.",
+            "uid": "Hvms05bdW"
           }
         ],
-        "create-time": 1612861449141,
-        "edit-time": 1612862180516,
+        "edit-time": 1613286389484,
         "heading": 2,
         "string": "Gold Standard \u26b1\ufe0f",
-        "uid": "0jB8FFxcN"
+        "uid": "IOWWjZCuT"
       },
       {
         ":create/user": {
@@ -1043,8 +975,8 @@
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
             "create-time": 1612862882344,
-            "edit-time": 1612862882344,
-            "string": "Unable to see the economic output of money, humankind associated money to success. But the marginal return of utility of money diminishes.",
+            "edit-time": 1613286400001,
+            "string": "Unable to see the economic output of money, humankind associated money with success. But the marginal return of utility of money diminishes.",
             "uid": "su6eggeHj"
           },
           {
@@ -1087,14 +1019,14 @@
                   ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
                 },
                 "create-time": 1612867010199,
-                "edit-time": 1612867029401,
-                "string": "Take Home Message from the Study: High incomes don\u2019t bring you happiness, but they do\nbring you a life that you think is better.",
+                "edit-time": 1613286424941,
+                "string": "Take-Home Message from the Study: High incomes don\u2019t bring you happiness, but they do bring you a life that you think is better.",
                 "uid": "h3s2Xq1bV"
               }
             ],
             "create-time": 1612862709500,
-            "edit-time": 1612945347851,
-            "string": "Making money (which is the focus of most people in a capitalist society) is like eating pancakes, the more you eat lesser the satisfaction you gain from it.",
+            "edit-time": 1613286416810,
+            "string": "Making money (which is the focus of most people in a capitalist society) is like eating pancakes, the more you eat lesser the  satisfaction you gain from it.",
             "uid": "AzizhnaJi"
           }
         ],
@@ -1105,189 +1037,130 @@
         "uid": "FMY0HSkus"
       },
       {
-        ":create/user": {
-          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-        },
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
         "children": [
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
             "children": [
               {
-                ":create/user": {
-                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                },
                 ":edit/user": {
                   ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
                 },
-                "create-time": 1612868565886,
-                "edit-time": 1612868670906,
-                "string": "While holding on to money would have been a safe strategy in the past, because of the [constant inflation](https://en.wikipedia.org/wiki/List_of_countries_by_inflation_rate) one needs to put the money to work to be able to save it.",
-                "uid": "tSzw0BdqJ"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                },
-                ":edit/user": {
-                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                },
-                "children": [
-                  {
-                    ":create/user": {
-                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                    },
-                    "create-time": 1612868871745,
-                    "edit-time": 1612869900049,
-                    "string": "Only invest in economic areas of your knowledge.",
-                    "uid": "5izTCvbnf"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                    },
-                    "create-time": 1612868938132,
-                    "edit-time": 1612869900049,
-                    "string": "Invest to ensure future income not short term gains.",
-                    "uid": "O5P_9Fj94"
-                  },
-                  {
-                    ":create/user": {
-                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                    },
-                    "create-time": 1612868997332,
-                    "edit-time": 1612869900049,
-                    "string": "Avoid loss. Understand that in a free and open market the returns **always** correlate with risk.",
-                    "uid": "fjB6S9eld"
-                  }
-                ],
-                "create-time": 1612868670899,
-                "edit-time": 1612869909282,
-                "string": "Make money work for you, Invest.",
-                "uid": "jyw0gdhCf"
-              },
-              {
-                ":create/user": {
-                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                },
-                ":edit/user": {
-                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                },
-                "create-time": 1612868681279,
-                "edit-time": 1612868750079,
-                "string": "Save as early as possible. [Compound interest](https://en.wikipedia.org/wiki/Compound_interest) is your friend.",
-                "uid": "PZdAW7m3M"
+                "edit-time": 1613286438679,
+                "string": "While holding on to money would have been a safe strategy in the past, because of the\u00a0[constant inflation](https://en.wikipedia.org/wiki/List_of_countries_by_inflation_rate)\u00a0one needs to put the money to work to be able to save it.",
+                "uid": "vekQZiWR3"
               }
             ],
-            "create-time": 1612868491298,
-            "edit-time": 1612868565893,
+            "edit-time": 1613286438679,
             "string": "Save",
-            "uid": "TVs0GrFJK"
+            "uid": "tWAxh3YbN"
           },
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
             "children": [
               {
-                ":create/user": {
-                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                },
                 ":edit/user": {
                   ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
                 },
-                "create-time": 1612868767116,
-                "edit-time": 1612869128476,
-                "string": "Budget before spending but don't be a miser.",
-                "uid": "aHRkYI8Fh"
+                "edit-time": 1613286438679,
+                "string": "Only invest in economic areas of your knowledge.",
+                "uid": "CbUiskDjT"
               },
               {
-                ":create/user": {
-                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-                },
                 ":edit/user": {
                   ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
                 },
-                "create-time": 1612868774923,
-                "edit-time": 1612868851925,
-                "string": "Do not increase spending with increase in your income.([\ud83d\udd17](https://www.investopedia.com/terms/l/lifestyle-inflation.asp))",
-                "uid": "3OCj8VgCj"
+                "edit-time": 1613286438679,
+                "string": "Invest to ensure future income not short-term gains.",
+                "uid": "F9-6qre99"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                "edit-time": 1613286438679,
+                "string": "Avoid loss. Understand that in a free and open market the returns\u00a0**always**\u00a0correlate with risk.",
+                "uid": "84qm3_lMJ"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                "edit-time": 1613286438679,
+                "string": "Save as early as possible.\u00a0[Compound interest](https://en.wikipedia.org/wiki/Compound_interest)\u00a0is your friend.",
+                "uid": "rm9tFTUWD"
               }
             ],
-            "create-time": 1612868751555,
-            "edit-time": 1612868767123,
+            "edit-time": 1613286438679,
+            "string": "Make money work for you, Invest.",
+            "uid": "j-M71Iak5"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+            },
+            "children": [
+              {
+                ":edit/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                "edit-time": 1613286438679,
+                "string": "Budget before spending but don't be a miser.",
+                "uid": "7GJnY5O4k"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+                },
+                "edit-time": 1613286438679,
+                "string": "Do not increase spending with increase in your income. ([\ud83d\udd17](https://www.investopedia.com/terms/l/lifestyle-inflation.asp))",
+                "uid": "MvAb-YgFm"
+              }
+            ],
+            "edit-time": 1613286438679,
             "string": "Spend",
-            "uid": "I8u6Msgqb"
+            "uid": "2q5qd0nIT"
           }
         ],
-        "create-time": 1612867340323,
-        "edit-time": 1612869777874,
+        "edit-time": 1613286438679,
         "heading": 2,
         "string": "Rules to be Rich \ud83e\ude99",
-        "uid": "gMm1HCDW0"
+        "uid": "AsKE2Uk0I"
       },
       {
-        ":create/user": {
-          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-        },
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
         "children": [
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612869336692,
-            "edit-time": 1612869450378,
+            "edit-time": 1613286438679,
             "string": "The ledger makes a comeback in the form of crypto-currencies.",
-            "uid": "aAIT6gHSb"
+            "uid": "0qrzFyoyx"
           },
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612869450371,
-            "edit-time": 1612869554887,
-            "string": "In terms of [qualities of money](https://www.stlouisfed.org/education/economic-lowdown-podcast-series/episode-9-functions-of-money), Bitcoin far exceeds gold and the current (centralized mess of a) currency system.",
-            "uid": "Z819gLEe-"
+            "edit-time": 1613286438679,
+            "string": "In terms of\u00a0[qualities of money](https://www.stlouisfed.org/education/economic-lowdown-podcast-series/episode-9-functions-of-money), Bitcoin far exceeds gold and the current (centralized mess of a) currency system.",
+            "uid": "y13FLH4Fj"
           }
         ],
-        "create-time": 1612867644068,
-        "edit-time": 1612869792187,
+        "edit-time": 1613286438679,
         "heading": 2,
         "string": "Return of the Ledger \ud83e\uddfe",
-        "uid": "a1CPTZoiJ"
+        "uid": "uLHXjoSZn"
       },
       {
-        ":create/user": {
-          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-        },
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
@@ -1298,52 +1171,39 @@
                 ":block/uid": "NGrm-ybiX"
               }
             ],
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612870262367,
-            "edit-time": 1612945421536,
+            "edit-time": 1613286438679,
             "refs": [
               {
                 "uid": "NGrm-ybiX"
               }
             ],
-            "string": "It is important to understand that the world changes because of people and not money. It also important to recognize that money enables this medium of trust that incentives people to innovate and innovation leads to better life. #[[21st Century Human]]",
-            "uid": "tC10BlgjE"
+            "string": "It is important to understand that the world changes because of people and not money. It also important to recognize that money enables this medium of trust that incentives people to innovate and innovation leads to a better life. #[[21st Century Human]]",
+            "uid": "8C_CumUCq"
           },
           {
-            ":create/user": {
-              ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-            },
             ":edit/user": {
               ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
             },
-            "create-time": 1612870041822,
-            "edit-time": 1612870262379,
-            "string": "The foundation of money is not of greed and exploitation (although historically it has been) but the foundation of money is that of __sharing, trust and collaboration__. ",
-            "uid": "w-3htC-h3"
+            "edit-time": 1613286438679,
+            "string": "The foundation of money is not of greed and exploitation (although historically it has been) but the foundation of money is that of\u00a0__sharing, trust, and collaboration__.",
+            "uid": "6DyjZQQSB"
           }
         ],
-        "create-time": 1612870023069,
-        "edit-time": 1612870041689,
+        "edit-time": 1613286438679,
         "heading": 2,
         "string": "Idea of Money \ud83d\udcb8",
-        "uid": "HiM9O2Z7f"
+        "uid": "-lzINfUlR"
       },
       {
-        ":create/user": {
-          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
-        },
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
-        "create-time": 1612867210691,
-        "edit-time": 1612868896718,
+        "edit-time": 1613286438679,
         "string": "**Money is more abstract than people think it is ( now more than ever ) while also being more important of a subject to understand than people think it\u2019s ought to be.**",
-        "uid": "2XMxIUiWz"
+        "uid": "IU1VH-mzm"
       }
     ],
     "create-time": 1612682214817,
@@ -1786,5 +1646,17 @@
     "edit-time": 1613201555792,
     "title": "February 13th, 2021",
     "uid": "02-13-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    ":edit/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    "create-time": 1613286143532,
+    "edit-time": 1613286143532,
+    "title": "February 14th, 2021",
+    "uid": "02-14-2021"
   }
 ]

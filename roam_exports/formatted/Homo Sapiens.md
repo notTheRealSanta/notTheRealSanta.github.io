@@ -18,5 +18,5 @@
 - Testing link to another page [Homo Sapiens](<Homo Sapiens.md>)
 
 ## [Understanding Money](<Understanding Money.md>)
-- Most transactions used a form of mental ledger where one would keep track of the 'IOU'-[I owe you](https://en.wikipedia.org/wiki/IOU). [Homo Sapiens](<Homo Sapiens.md>)
+- Most transactions used a form of the mental ledger where one would keep track of the 'IOU'-[I owe you](https://en.wikipedia.org/wiki/IOU). [Homo Sapiens](<Homo Sapiens.md>)
 

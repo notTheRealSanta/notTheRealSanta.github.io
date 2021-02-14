@@ -11,9 +11,8 @@
 - Testing link to webpage [link](https://github.com/Knio/dominate)
 - Testing block ref
     - "Happiness 😃"
-        - "Unable to see the economic output of money, humankind associated money to success. But the marginal return of utility of money diminishes."
-        - "Making money (which is the focus of most people in a capitalist society) is like eating pancakes, the more you eat lesser the satisfaction you gain from it."
+        - "Unable to see the economic output of money, humankind associated money with success. But the marginal return of utility of money diminishes."
+        - "Making money (which is the focus of most people in a capitalist society) is like eating pancakes, the more you eat lesser the  satisfaction you gain from it."
             - "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNotTheRealSanta%2FOsQjm14Aoy.png?alt=media&token=0af7c27b-43ff-4f2b-8260-7e107b239c98)"
             - "This is from a [study](https://spia.princeton.edu/sites/default/files/content/docs/news/Happiness_Money_Summary.pdf) by [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman)"
-            - "Take Home Message from the Study: High incomes don’t bring you happiness, but they do
-bring you a life that you think is better."
+            - "Take-Home Message from the Study: High incomes don’t bring you happiness, but they do bring you a life that you think is better."

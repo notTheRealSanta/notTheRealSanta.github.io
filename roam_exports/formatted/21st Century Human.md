@@ -1,7 +1,7 @@
 - The 21st century world is alien to the human species. By 'alien' I mean it is not a natural habitat for humans. Although biologically 21st century humans are similar to the [Homo Sapiens](<Homo Sapiens.md>) of the past, culturally we are very much different. 
 - Progress
     - ![](https://ourworldindata.org/uploads/2017/01/Two-centuries-World-as-100-people.png)
-- ### Light Side
+- ## Light Side
     - Food🍕is not scarce. In fact, It is abundant to most of us. We do not worry about our next meal. This is new to homo sapiens.
     - Electricity⚡️ to power our Homes and Industry. We discovered fossil fuels and inventing efficient ways to covert them to do [work](https://en.wikipedia.org/wiki/Work_%28physics%29).
         - Access to electricity is at 90% of the population.
@@ -11,7 +11,7 @@
     - Access to Knowledge 🌍 is not limited.
         - ![Internet access around the world](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fho_kepos%2F38ntir_tny.png?alt=media&token=ab1aaea8-a3d1-4910-a548-3751b1db2815) ( [image-source](https://ourworldindata.org/internet) )
     - Large scale economic policies 💹 lifting many from poverty.
-- ### Dark Side
+- ## Dark Side
     - 🍕 World deals with undernourishment and obesity at the same time 
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fho_kepos%2FsBTMscRBX3.png?alt=media&token=f520ea90-39ea-4ecc-8b3a-263c7fb50b3d)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fho_kepos%2Fa6Ra3LMdKq.png?alt=media&token=61836732-45c2-4a67-883d-79534d181857) 
@@ -26,12 +26,12 @@
     - 💹  Economic growth with increase in Income inequality
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fho_kepos%2FnLg5nlsoDW.png?alt=media&token=1c229eee-0c7f-4eaf-9294-fe4ebe5c9b09)
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fho_kepos%2FkaPCfvXgZF.png?alt=media&token=defe5db3-2ced-4a99-9d4c-bed223cd8afd)
-        - **It's important to note that Man creates Poverty**
+        - **It's important to understand that Man creates Poverty**
 
 # Backlinks
 ## [February 6th, 2021](<February 6th, 2021.md>)
 - [21st Century Human](<21st Century Human.md>)
 
 ## [Understanding Money](<Understanding Money.md>)
-- It is important to understand that the world changes because of people and not money. It also important to recognize that money enables this medium of trust that incentives people to innovate and innovation leads to better life. #[21st Century Human](<21st Century Human.md>)
+- It is important to understand that the world changes because of people and not money. It also important to recognize that money enables this medium of trust that incentives people to innovate and innovation leads to a better life. #[21st Century Human](<21st Century Human.md>)
 
