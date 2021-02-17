@@ -1700,6 +1700,28 @@
         ],
         "string": "[[Illusion of Time]]",
         "uid": "hi24yh8qL"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "hs_x4St-H"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        ":edit/user": {
+          ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+        },
+        "create-time": 1613479564781,
+        "edit-time": 1613479572631,
+        "refs": [
+          {
+            "uid": "hs_x4St-H"
+          }
+        ],
+        "string": "[[Paradox of Worry]]",
+        "uid": "cpIsmr0FG"
       }
     ],
     "create-time": 1613421291738,
@@ -1722,15 +1744,39 @@
         ":edit/user": {
           ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
         },
-        "create-time": 1613421329979,
-        "edit-time": 1613421329979,
+        "create-time": 1613479590599,
+        "edit-time": 1613479590599,
         "string": "",
-        "uid": "7bhLNgVAF"
+        "uid": "OtNrnUVi4"
       }
     ],
     "create-time": 1613421327472,
     "edit-time": 1613421327474,
     "title": "Illusion of Time",
     "uid": "afNt7Ufcq"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    ":edit/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    "create-time": 1613479572635,
+    "edit-time": 1613479572636,
+    "title": "Paradox of Worry",
+    "uid": "hs_x4St-H"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    ":edit/user": {
+      ":user/uid": "6LuYIVM8gkcHonjBGLtrKf39xYC3"
+    },
+    "create-time": 1613540601693,
+    "edit-time": 1613540601693,
+    "title": "February 17th, 2021",
+    "uid": "02-17-2021"
   }
 ]
