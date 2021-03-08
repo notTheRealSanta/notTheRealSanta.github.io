@@ -1,2 +1,0 @@
-- [Illusion of Time](<Illusion of Time.md>)
-- [Paradox of Worry](<Paradox of Worry.md>)

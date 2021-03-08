@@ -1,2 +1,0 @@
-- [[Illusion of Time]]
-- [[Paradox of Worry]]
